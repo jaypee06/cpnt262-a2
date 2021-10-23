@@ -125,6 +125,8 @@ randomImages.forEach(function(imageId){
   
 });
 
+ 
+
 const images = document.querySelector('.hoop');
 images.innerHTML = output;
 
